@@ -1,3 +1,6 @@
+package exercice;
+
+
 /**
  * Singleton-Exercice
  *
@@ -8,6 +11,6 @@ public class Context1 {
 
     public void start(){
         System.out.println("On crée le user Jean( J11111)  dans contexte 1");
-        Application.userManager.add("Jean","J11111");
+        Bidon.userManager.add("Jean","J11111");
     }
 }

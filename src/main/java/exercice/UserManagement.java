@@ -1,3 +1,5 @@
+package exercice;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -10,7 +12,7 @@ import java.util.Map;
 public class UserManagement {
     private Map<String,String> users;
     public UserManagement(){
-        users= new HashMap<String,String>();
+        users= new HashMap<>();
 
         users.put("Albert","Albert1234");
         users.put("Bob","B9191");
