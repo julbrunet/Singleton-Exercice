@@ -1,1 +1,1 @@
-Utiliser le singleton pour se débarrasser de la variable statique userManager de la classe application
+Utiliser le singleton pour se débarrasser de la variable statique userManager de la classe bidon (et de la classe bidon!)
